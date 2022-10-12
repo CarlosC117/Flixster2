@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flixster2+</string>
+    <string name="author_s_poster">Author\'s poster</string>
+    <string name="movie_poster">Movie poster</string>
+    <string name="person_s_profile">person\'s profile</string>
+    <string name="test_look">Test Look</string>
+</resources>
